@@ -1,0 +1,22 @@
+Decode any 0-255 cesar chipher. 
+
+
+Example: 
+
+x.txt file: 
+    4d6a7e26254b7a6870255e747a26262625
+
+Command:
+
+$ gcc main.c -ggdb && ./a.out > x
+$ cat x
+
+Result:
+
+....
+Gdx EtbjXnt   
+Hey! Fuck You!!! 
+Ifz"!Gvdl!Zpv"""!
+Jg{#"Hwem"[qw###"
+....
+
